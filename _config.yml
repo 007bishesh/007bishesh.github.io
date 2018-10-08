@@ -122,9 +122,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/007bishesh/"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
-       url: "https://www.linkedin.com/in/bishesh-manandhar-7918319a/"
+
 
 # Site Footer
 footer:
